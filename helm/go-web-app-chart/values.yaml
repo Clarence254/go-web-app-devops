@@ -8,7 +8,7 @@ image:
   repository: claro254/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "11363662208"
 
 ingress:
   enabled: false
